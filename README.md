@@ -3,7 +3,7 @@
 I'm a dedicated BCA student, enthusiastic about technology and passionate about expressing myself through writing. My journey revolves around immersing myself in the field of computer applications, discovering new concepts, and contributing my perspectives to the community
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,javascript,php,laravel,prisma,mongodb,mysql,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,typescript,express,javascript,php,laravel,prisma,mongodb,mysql,html,css,)](https://skillicons.dev)
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
