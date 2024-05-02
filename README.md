@@ -1,8 +1,8 @@
-# Hi, I'm <YOUR NAME>! 👋
+### Hi there 👋
 
 I'm a dedicated BCA student, enthusiastic about technology and passionate about expressing myself through writing. My journey revolves around immersing myself in the field of computer applications, discovering new concepts, and contributing my perspectives to the community
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+**imranshkh283/imranshkh283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🚀 About Me
 
