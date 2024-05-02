@@ -2,8 +2,8 @@
 
 I'm a dedicated BCA student, enthusiastic about technology and passionate about expressing myself through writing. My journey revolves around immersing myself in the field of computer applications, discovering new concepts, and contributing my perspectives to the community
 
-**imranshkh283/imranshkh283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Tech Stack
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=nestjs,nodejs,express,javascript,php,laravel,prisma,mongodb,mysql,html,css))](https://skillicons.dev)
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
@@ -14,9 +14,6 @@ I'm a dedicated BCA student, enthusiastic about technology and passionate about 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
